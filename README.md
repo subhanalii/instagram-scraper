@@ -28,7 +28,7 @@ This is a Python-based web automation script that:
 
 ```python
 # Bing search for Instagram profiles
-query = 'site:instagram.com "fitness coach" "email"'
+query = ''
 search_url = f"https://www.bing.com/search?q={query}"
 driver.get(search_url)
 
