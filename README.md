@@ -12,7 +12,7 @@ This is a Python-based web automation script that:
 
 
 Watch the full working demo here:  
-🎬 [Click to view demo.mp4](media/demo.mp4)
+🎬 [Click to view demo.mp4](demo.mp4)
 
  > *(Full source code available upon request — email me at [isubhanali3@gmail.com](mailto:isubhanali3@gmail.com) or contact me on [Upwork](https://www.upwork.com/freelancers/~01b6c1b6819be875f2?mp_source=share))*
 
