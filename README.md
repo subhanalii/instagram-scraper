@@ -29,7 +29,6 @@ This is a Python-based web automation script that:
 
 ## 📋 Sample Code
 
-```python
 # Bing search for Instagram profiles
 query = ''
 search_url = f"https://www.bing.com/search?q={query}"
