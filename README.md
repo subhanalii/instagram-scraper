@@ -3,7 +3,7 @@
 This is a Python-based web automation script that:
 
 - Logs into Instagram using your credentials
-- Uses Bing to search public Instagram profiles of fitness coaches with emails
+- Uses Bing to search public Instagram profiles of given query
 - Extracts public details from profiles like name, bio, posts, followers, and following
 - Searches bios for public email addresses
 - Saves results to a CSV file
