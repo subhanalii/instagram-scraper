@@ -25,7 +25,7 @@ This is a Python-based web automation script that:
 ✅ Email detection from bio  
 ✅ CSV export
 
----
+
 
 ## 📋 Sample Code
 
