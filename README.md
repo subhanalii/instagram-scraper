@@ -9,8 +9,13 @@ This is a Python-based web automation script that:
 - Saves results to a CSV file
 
 ## 📽️ Demo
-> 📌 Watch it in action below 👇 > *(Full source code available upon request — email me at [isubhanali3@gmail.com](mailto:isubhanali3@gmail.com) or contact me on [Upwork](https://www.upwork.com/freelancers/~01b6c1b6819be875f2?mp_source=share))*
-![Demo](demo.gif)
+
+
+Watch the full working demo here:  
+🎬 [Click to view demo.mp4](media/demo.mp4)
+
+ > *(Full source code available upon request — email me at [isubhanali3@gmail.com](mailto:isubhanali3@gmail.com) or contact me on [Upwork](https://www.upwork.com/freelancers/~01b6c1b6819be875f2?mp_source=share))*
+
 
 ---
 
