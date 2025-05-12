@@ -10,7 +10,7 @@ This is a Python-based web automation script that:
 
 ## 📽️ Demo
 > 📌 Watch it in action below 👇 > *(Full source code available upon request — email me at [isubhanali3@gmail.com](mailto:isubhanali3@gmail.com) or contact me on [Upwork](https://www.upwork.com/freelancers/~01b6c1b6819be875f2?mp_source=share))*
-![Demo](assets/demo.gif)
+![Demo](demo.gif)
 
 ---
 
